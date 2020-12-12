@@ -1,5 +1,5 @@
 [package]
-name = "rust-practice-20-web-server"
+name = "hello"
 version = "0.1.0"
 authors = ["koizr <koizumi.ryo.dev@gmail.com>"]
 edition = "2018"
